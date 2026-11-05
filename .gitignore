@@ -1,0 +1,22 @@
+# Simulator/generated outputs
+work/
+*.wlf
+*.vcd
+*.bak
+*.cr.mti
+*.mpf
+*.qdb
+*.qpg
+*.qtl
+*.jou
+*.log
+# Vivado generated directories
+.Xil/
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+# OS/editor
+.DS_Store
+Thumbs.db
